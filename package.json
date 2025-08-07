@@ -1,0 +1,22 @@
+{
+  "name": "ce-wurzer-landing-page",
+  "version": "1.0.0",
+  "description": "Lead generation page for C&E Wurzer Construction",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^1.12.0",
+    "nodemailer": "^6.9.14",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.14.9",
+    "@types/nodemailer": "^6.4.15",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "typescript": "^5.5.2"
+  }
+}
